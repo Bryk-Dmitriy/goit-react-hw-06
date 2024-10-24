@@ -1,0 +1,20 @@
+.listItem{
+    width: 250px;
+    position: relative;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.deleteButton{
+    position: absolute;
+    top: 18px;
+    right: 10px;
+}
+
+.userIcon {
+    margin-right: 5px;
+}

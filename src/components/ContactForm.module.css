@@ -1,0 +1,38 @@
+.contactForm {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .formLabel {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .formField {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .submitButton {
+    display: block;
+    width: 150px;
+    margin: auto;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .submitButton:hover{
+    background-color: rgb(231, 229, 229);
+  }
+  
